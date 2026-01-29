@@ -34,9 +34,9 @@ return 0;
 }
 
 // INTENTIONAL DUPLICATION
-public int addAgain(int a, int b) {
-return a + b;
-}
+    public int addAgain(int a, int b) {
+    return a + b;
+    }
 
 
     // Code Duplication (students must remove)
