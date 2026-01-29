@@ -2,8 +2,6 @@ package main.java.com.example;
 
 public class App {
 
-    public class App {
-
     public static void main(String[] args) {
         Calculator calc = new Calculator();
 
@@ -35,5 +33,4 @@ public class App {
     }
 }
 
-}
 
